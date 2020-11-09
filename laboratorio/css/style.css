@@ -1,0 +1,44 @@
+body{
+    background-color: lightgrey;
+}
+
+#titulo{
+    display: block;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#Horas{
+    display: block;
+    text-align: center;
+}
+
+#horas label{
+    font-size: 20px;
+}
+
+#Boton{
+    background-color: red;
+    display: block;
+    color: white;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 10px;
+}
+#ValorSalario{
+    display: block;
+    text-align: center;
+    align-content: center;
+    margin: 20px auto;
+    border: 2px solid white;
+    padding: 20px;
+    font-size: 20px;
+    width: 20%;
+    
+}
+.campo{
+    display: block;
+    margin: 0 auto;
+}
